@@ -5,7 +5,7 @@
     box-sizing: border-box;
     }
     body {
-        bgcolor="aliceBlue"
+        background-color: aliceblue;
         font-family: 'Arial', sans-serif;
         line-height: 1.6;
         padding: 20px;
